@@ -14,25 +14,25 @@
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//*
+//
 //  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
-//*
-//*
-//base by DGXeon
-//re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
-// ⛥┌┤
-// */
+//  
+//  
+//   
+//
+//
+//
+//
+//
+//
+//
+//WhatsApp: +15593740475
+//
+//   
+//
+//  
+// 
+// 
 
 require("./lib/listmenu");
 const {
@@ -197,22 +197,22 @@ function formatAfkDuration(ms) {
 const xtime = moment.tz("Asia/Karachi").format("HH:mm:ss");
 const xdate = moment.tz("Asia/Karachi").format("DD/MM/YYYY");
 const time2 = moment().tz("Asia/Karachi").format("HH:mm:ss");
-if (time2 < "23:59:00") {
-  var xeonytimewisher = `Good Night 🌌`;
+if (time2 < "22:00:00") {
+  var xeonytimewisher = `Muttui vek ule`;
 }
-if (time2 < "19:00:00") {
-  var xeonytimewisher = `Good Evening 🌃`;
+if (time2 < "20:00:00") {
+  var xeonytimewisher = `👍🏻👍🏻👍🏻`;
 }
 if (time2 < "18:00:00") {
-  var xeonytimewisher = `Good Evening 🌃`;
+  var xeonytimewisher = `👍🏻👍🏻👍🏻`;
 }
 if (time2 < "15:00:00") {
-  var xeonytimewisher = `Good Afternoon 🌅`;
+  var xeonytimewisher = `👍🏻👍🏻👍🏻`;
 }
 if (time2 < "11:00:00") {
-  var xeonytimewisher = `Good Morning 🌄`;
+  var xeonytimewisher = `👍🏻👍🏻👍🏻`;
 }
-if (time2 < "05:00:00") {
+if (time2 < "06:00:00") {
   var xeonytimewisher = `Good Morning 🌄`;
 }
 //function
